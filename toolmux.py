@@ -4,7 +4,7 @@
 import os
 import sys
 from time import sleep as timeout
-from core.toolmux import *
+from toolmux import *
 
 
 def main():
