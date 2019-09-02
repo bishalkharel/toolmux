@@ -4,7 +4,7 @@
 import os
 import sys
 from time import sleep as timeout
-import toolmuxcore.py
+import toolmuxcore
 
 
 def main():
