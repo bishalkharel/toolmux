@@ -10,9 +10,7 @@ bash install.sh
 python2 toolmux.py
 
 =========================================================
-************************************
-Developed by:Bishal kharal         *
-                                   *
-                                   *
-************************************                                   
+
+Developed by:Bishal kharal         
+                                                                    
               
