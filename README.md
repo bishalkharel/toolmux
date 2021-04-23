@@ -1,7 +1,7 @@
-# Toolmux
-This project was created for educational purposes only.
+# A awesome tool which can be used for recon,finding bugs and many more useful things 
+
 =================================================================
-# If you awnt to modify my project then make sure to give credits 
+# If you want to modify my project then make sure to give credits 
 =================================================================
 process to run the framework:
 cd toolmux
@@ -11,9 +11,6 @@ python2 toolmux.py
 ************************************
 Developed by:Bishal kharal         *
                                    *
-Instagram:@bsal_kharel             *
-Twitter:@bishal kharal             *  
-Stack overflow:@bishalkharel       *
-************************************                                   *
-                             
-# Help poor people in Uganda..
+                                   *
+************************************                                   
+              
