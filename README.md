@@ -3,12 +3,12 @@
 #### If you want to modify my project then make sure to give credits 
 
 
-### Installation:
-,,,
+### Installating toolmuc on linux:
+```
 $ cd toolmux
 $ bash install.sh
 $ python2 toolmux.py
-,,,
+```
 
 
       
