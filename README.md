@@ -2,10 +2,10 @@
 
 ### Installating toolmux on termux:
 ```
-$ git clone https://github.com/bishalkharel/toolmux
-$ cd toolmux
-$ bash install.sh
-$ python2 toolmux.py
+> git clone https://github.com/bishalkharel/toolmux
+> cd toolmux
+> bash install.sh
+> python2 toolmux.py
 ```
 
 
