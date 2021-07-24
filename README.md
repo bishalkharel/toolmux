@@ -3,8 +3,9 @@
 #### If you want to modify my project then make sure to give credits 
 
 
-### Installating toolmuc on linux:
+### Installating toolmux on linux:
 ```
+$ git clone https://github.com/bishalkharel/toolmux
 $ cd toolmux
 $ bash install.sh
 $ python2 toolmux.py
