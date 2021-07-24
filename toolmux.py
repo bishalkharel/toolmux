@@ -4,8 +4,7 @@
 import os
 import sys
 from time import sleep as timeout
-import toolmuxcore
-
+import cores.toolmuxcore
 
 def main():
         banner()          
