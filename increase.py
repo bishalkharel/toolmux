@@ -14,8 +14,8 @@ numbers=list(i for i in range(10))
 le=chc(alphabets)
 num=str(chc(numbers))
 big=chc(big_alph)
-to_change=big+le+num+num+big+le+le+num+big
-for i in range(1000):
+to_change=big+le+num+num+big+le+le+num+big+num+le+big+big
+for i in range(100):
     with open("/home/nepgor/toolmux/keys.txt",'a') as f:
         f.write(to_change)
 
